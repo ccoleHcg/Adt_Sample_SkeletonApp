@@ -1,0 +1,1 @@
+From the ADT samples folder. Learning ADT and GIT integration mostly.
